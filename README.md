@@ -1,7 +1,7 @@
-Revenue insights in Hotel industry :
+Revenue insights in the Hotel industry :
 
-• Atliq Grands noticed a loss in their market share and revenue over a few months. To understand the cause of this loss, they needed a way to analyze this. I created 
-  a dashboard in Power BI using three months of data.
-
-• With the created dashboard, Revenue team of Atliq Grands were able to gain insights about their revenue trend. This could help in regaining their revenue and market 
-  share next month.
+• Atliq Grands noticed a loss in their market share and revenue over a few months. To understand the cause of this loss. I created a dashboard in Power BI using three 
+  months of data covering different KPIs such as RevPAR, ADR, DSRN, Occupancy %, etc.
+  
+• With this dashboard, the revenue team of Atliq Grands was able to gain insights into their revenue trend, which could help them in regaining their revenue and 
+  market share in upcoming months.
